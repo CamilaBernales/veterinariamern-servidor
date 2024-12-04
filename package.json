@@ -19,7 +19,7 @@
     "jsonwebtoken": "^8.5.1",
     "jwt-decode": "^2.2.0",
     "mercadopago": "^1.3.2",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.9.18",
     "mongoose-paginate-v2": "^1.3.9",
     "morgan": "^1.10.0",
